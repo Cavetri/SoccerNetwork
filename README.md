@@ -17,7 +17,7 @@ player = int(input("Enter amount: "))
 contract = club % player - 10.00
 
 for x in player and x in club:
- if contract >= player:
+ if contract >= x:
  print("player value: " + str(contract)
 return contract 
 print(cavetrisoccernetwork("name " + "club " + str(contract)))
