@@ -1,5 +1,5 @@
 # SoccerNetwork
-def cavetrisoccernetwork(player, club, contract)
+def cavetrisoccernetwork(player, club, contract):
 
 player = int(input("Enter amount: "))
 club = int(input("Enter amount: "))
