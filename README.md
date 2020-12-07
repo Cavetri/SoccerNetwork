@@ -6,8 +6,8 @@ club = int(input("Enter amount: "))
 contract  = (club % player)* 80.00 - 10.00
 
 for x in player and x in club:
- if x == contract:
- Print("player value: " + str(contract))
+ if x == (contract - 10.00):
+ Print("player value: " + str(x))
 break
 continue 
 
@@ -16,7 +16,8 @@ player = int(input("Enter amount: "))
 contract = (club % player)* 80.00 - 10.00
 
 for x in player and x in club:
- if x >= contract:
- print("player value: " + str(contract)
+ if x == (contract - 10.00):
+ print("player value: " + str(x)
+contract == x
 return contract 
 print(cavetrisoccernetwork(player + "name ", club + "club name ", + str(contract)))
