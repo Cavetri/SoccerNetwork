@@ -19,4 +19,4 @@ for x in player and x in club:
  if x >= contract:
  print("player value: " + str(contract)
 return contract 
-print(cavetrisoccernetwork("name " + "club " + str(contract)))
+print(cavetrisoccernetwork(player + "name ", club + "club name ", + str(contract)))
